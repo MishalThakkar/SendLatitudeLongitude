@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704849105512",
+    "firebase_url": "https://thistimedone.firebaseio.com",
+    "project_id": "thistimedone",
+    "storage_bucket": "thistimedone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704849105512:android:935a184ee064da02",
+        "android_client_info": {
+          "package_name": "com.example.dell.thistimedone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704849105512-ib6j85ti8po6rpocsc6cdcgcd76cokf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.thistimedone",
+            "certificate_hash": "a2ecd89e44a5004ebba9eef0a2e86df0f87afe70"
+          }
+        },
+        {
+          "client_id": "704849105512-480heetcp6oiel9tdcunp12g0u7166cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ8WTRo4P-wUYAwrrfcQHtb0exzsMDVbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704849105512-480heetcp6oiel9tdcunp12g0u7166cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
